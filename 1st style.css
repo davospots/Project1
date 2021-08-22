@@ -12,9 +12,11 @@ header{
     background-repeat: no-repeat;
     color: white;
     
+    
 }
 section{
     text-align: center;
+    
     
 }
 h2{
@@ -28,8 +30,7 @@ header p{
 }
 ul{
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: space-evenly;
 }
 ul li{
     list-style: none;
@@ -43,4 +44,5 @@ ul li{
     background-size: cover;
     padding: 10%;
     color: white;
+    
 }
