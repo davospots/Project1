@@ -1,9 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+}
 header{
     text-transform: uppercase;
     text-align: center;
-    padding: 20%;
+    background-position: center;
     background-image: url(/assets/backgrounds/h_img.jpg);
-    background-size: 100%;
+    background-size:cover;
+    padding: 20%;
     background-repeat: no-repeat;
+    color: white;
+    
+}
+section{
+    text-align: center;
+    
+}
+h2{
+    text-transform: uppercase;
+}
+.logo{
+    height: 50px;
+}
+header p{
+    font-size: 10px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    
+    
+}
+.services{
+    background-image: url(/assets/backgrounds/s_image.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10%;
     color: white;
 }
