@@ -30,23 +30,24 @@ header p{
 }
 ul{
     display: flex;
-    justify-content: space-evenly;
-    
+    justify-content: space-around;
+    padding: 40px;
 }
 ul li{
     list-style: none; 
-}
+}    
 .services{
     background-image: url(/assets/backgrounds/s_image.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 10%;
-    color: white;
-    
+    color: white;  
 }
-.portfolio{
-    display: flex;
-    flex-wrap: wrap;
-    padding: 25px;    
+#portcontainer{
+ display: flex;
+ flex-flow: row wrap;
+ justify-content: space-evenly;
+ padding: 40px;
+ 
 }
