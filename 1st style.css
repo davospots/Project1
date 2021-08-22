@@ -49,5 +49,7 @@ ul li{
  flex-flow: row wrap;
  justify-content: space-evenly;
  padding: 40px;
- 
+}
+.contact{
+    background-image: url(/assets/backgrounds/c_image.jpg);
 }
