@@ -31,11 +31,10 @@ header p{
 ul{
     display: flex;
     justify-content: space-evenly;
+    
 }
 ul li{
-    list-style: none;
-    
-    
+    list-style: none; 
 }
 .services{
     background-image: url(/assets/backgrounds/s_image.jpg);
@@ -45,4 +44,9 @@ ul li{
     padding: 10%;
     color: white;
     
+}
+.portfolio{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 25px;    
 }
