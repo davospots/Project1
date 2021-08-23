@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 header{
     text-transform: uppercase;
@@ -36,12 +37,15 @@ header p{
 }
 ul{
     display: flex;
-    justify-content: space-around;
+    justify-content:space-around;
     padding: 40px;
 }
 ul li{
     list-style: none; 
 }    
+ul p{
+    text-transform: uppercase;
+}
 .services{
     background-image: url(/assets/backgrounds/s_image.jpg);
     background-position: center;
@@ -54,8 +58,7 @@ ul li{
 #portcontainer{
  display: flex;
  flex-flow: row wrap;
- justify-content: space-evenly;
-
+ justify-content: space-around;
  width: 1500px;
  margin: 30px auto 30px auto;
 }
@@ -63,5 +66,12 @@ ul li{
     background-image: url(/assets/backgrounds/c_image.jpg);
     color: white;
     padding: 40px;
-    
+   
 }
+
+    
+
+
+  
+
+    
