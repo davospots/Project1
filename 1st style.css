@@ -68,19 +68,20 @@ ul p{
     background-image: url(/assets/backgrounds/c_image.jpg);
     color: white;
     padding: 40px;
-   
 }
 .icons ul{
     display: flex;
     padding: 40px;
     justify-content: center;
-
 }
 .icons p{
     text-align: center;
     text-transform: uppercase;
 }
-    
+.icons > ul > li{
+    margin: 20px;
+}
+
 
 
   
