@@ -16,6 +16,7 @@ header{
 }
 section{
     text-align: center;
+    padding: 40px;
     
     
 }
@@ -42,15 +43,20 @@ ul li{
     background-repeat: no-repeat;
     background-size: cover;
     padding: 10%;
-    color: white;  
+    color: white;
+    margin: 40px;  
 }
 #portcontainer{
  display: flex;
  flex-flow: row wrap;
  justify-content: space-evenly;
- padding: 40px;
+ 
+ width: 1500px;
+ margin: 30px auto 30px auto;
 }
 .contact{
     background-image: url(/assets/backgrounds/c_image.jpg);
     color: white;
+    padding: 40px;
+    
 }
