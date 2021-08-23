@@ -72,8 +72,14 @@ ul p{
 }
 .icons ul{
     display: flex;
-}
+    padding: 40px;
+    justify-content: center;
 
+}
+.icons p{
+    text-align: center;
+    text-transform: uppercase;
+}
     
 
 
