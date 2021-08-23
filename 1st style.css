@@ -11,14 +11,19 @@ header{
     padding: 20%;
     background-repeat: no-repeat;
     color: white;
+    margin: 20px;
+    
     
     
 }
 section{
     text-align: center;
-    padding: 40px;
+    padding: 20px;
     
     
+}
+.about{
+    margin: 60px;
 }
 h2{
     text-transform: uppercase;
@@ -44,13 +49,13 @@ ul li{
     background-size: cover;
     padding: 10%;
     color: white;
-    margin: 40px;  
+    margin: 10px;  
 }
 #portcontainer{
  display: flex;
  flex-flow: row wrap;
  justify-content: space-evenly;
- 
+
  width: 1500px;
  margin: 30px auto 30px auto;
 }
