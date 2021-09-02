@@ -16,7 +16,7 @@ This website used html and css languages to make it.everything was done from scr
 
 ****
 ### 3.Live link
-http://davospots-delanidave.github.io
+https://davospots.github.io/Project1/
 ****
 ### 4.Copyright
 This website is free for all to view ,edit any and all styles but excluding the content or the information on the website
