@@ -1,38 +1,22 @@
 # first-webpage
-
-
-Making my first webpage using HTML and CSS
-
-TODO: Fill out this long description.
-
+# Delani website replication project
+# Author: davospots(David Mathaga)
+***
 ## Table of Contents
+1. [General Info](#general-info)
+2. [Technologies](#technologies)
+3. [Live link](#live-link)
+4. [Copyright](#copyright)
+****
+### 1.General info
+This project involed taking a picture and emulating it's styles and format as a website from scratch
+****
+### 2.Technologies
+This website used html and css languages to make it.everything was done from scratch.
 
-- [Install](#install)
-- [Usage](#usage)
-- [Maintainers](#maintainers)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Install
-
-```
-```
-
-## Usage
-
-```
-```
-
-## Maintainers
-
-[@https://github.com/davospots/Project1](https://github.com/https://github.com/davospots/Project1)
-
-## Contributing
-
-PRs accepted.
-
-Small note: If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
-
-## License
-
-y © 2021 Dave
+****
+### 3.Live link
+http://davospots/delanidave.github.io
+****
+### 4.Copyright
+This website is free for all to view ,edit any and all styles but excluding the content or the information on the website
