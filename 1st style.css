@@ -104,4 +104,7 @@ ul li{
 .icons > ul > li{
     margin: 15px;
 }
- 
+
+textarea, input{
+    background:transparent;
+}
