@@ -88,7 +88,7 @@ ul li{
     padding: 15px;
 
 }
-.img-and-text-wrapper > .text{
+.img-and-text-wrapper > .text-a,.text-b,.text-c,.text-d,.text-e,.text-f,.text-g,.text-h{
     position: absolute;
     top: 0;
     display: flex;

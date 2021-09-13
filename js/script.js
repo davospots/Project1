@@ -38,9 +38,15 @@ $(document).ready(function(){
         $("img[alt=manage]").show();
         $(".para-three").hide();
     })      
+        //Portfolio section working on the hover effect
 
-    $(".img-and-text-wrapper > .img").hover(function(){
-        $(".text").show()
+    $("img[alt=photo1").hover(function(){
+        $(".text-a").toggle();
+    
+    });
+
+    $("img[alt=photo2").hover(function(){
+        $(".text-b").toggle()
     });
 
 
