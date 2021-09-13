@@ -1,6 +1,8 @@
 $(document).ready(function(){
     $(".para-one").hide();
     $(".para-two").hide();
+    $(".para-three").hide();
+
 
     $(".text-a, .text-b, .text-c, .text-d, .text-e, .text-f, .text-g, .text-h ").hide();
 

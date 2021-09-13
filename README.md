@@ -13,6 +13,7 @@ This project involed taking a picture and emulating it's styles and format as a 
 ****
 ### 2.Technologies
 This website used html javascript and css languages to make it.everything was done from scratch.
+It also uses jqery and bootstrap libraries
 
 ****
 ### 3.Live link
