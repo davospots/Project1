@@ -12,7 +12,7 @@
 This project involed taking a picture and emulating it's styles and format as a website from scratch
 ****
 ### 2.Technologies
-This website used html and css languages to make it.everything was done from scratch.
+This website used html javascript and css languages to make it.everything was done from scratch.
 
 ****
 ### 3.Live link
