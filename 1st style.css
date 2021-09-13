@@ -96,11 +96,15 @@ ul li{
     justify-content: center;
     align-items: center;
     text-align: center;
-    height: 100%;
-    margin: 0 190px 0 190px;
-    color:rgb(209, 252, 124);
+    height: inherit;
+    margin: 150px 190px 0 190px;
+    color:rgb(242, 16, 250);
     font-weight: bold;
     background-color: white;
+    
+
+    
+    
    
 
 }
