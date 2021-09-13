@@ -9,13 +9,13 @@ $(document).ready(function(){
     })        
 
 
-    $("img[alt=design]").on("click",function(){
-        $("img[alt=design").hide();
-        $(".para-one").show();
+    $("img[alt=dev]").on("click",function(){
+        $("img[alt=dev").hide();
+        $(".para-two").show();
     })
-    $(".para-one").on("click",function(){
-        $("img[alt=design").show();
-        $(".para-one").hide();
+    $(".para-two").on("click",function(){
+        $("img[alt=dev").show();
+        $(".para-two").hide();
     })      
 
   });
