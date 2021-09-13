@@ -9,7 +9,7 @@ header{
     background-position: center;
     background-image: url(assets/backgrounds/h_img.jpg);
     background-size:cover;
-   
+    padding-top: 10%;
     font-size: 20px;
     background-repeat: no-repeat;
     color: white;
@@ -36,8 +36,6 @@ h2{
 header p{
     font-size: 15px;
 }
-
-
 .we ul {
     display: grid;
     grid-column-gap: 350px;
