@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $("#stff").hide();
+    $(".para").hide();
   });
