@@ -74,26 +74,33 @@ ul li{
 
 .portcontainer {
     display: grid;
-    grid-template-columns: auto auto auto;
-    
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
 }
-.portcontainer > .img > img{
-    
-    grid-column-gap: 12px;
-   
-    padding: 10px;
+.img-and-text-wrapper{
+    position: relative;
 }
 
-.portcontainer > .project{
+
+
+.img-and-text-wrapper{
     
-    
-    
-    
-    
-   
-    
-   
+    padding: 15px;
+
 }
+.img-and-text-wrapper > .text{
+    position: absolute;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+    padding-left: 190px;
+
+}
+
 
 .contact{
     background-image: url(assets/backgrounds/c_image.jpg);
