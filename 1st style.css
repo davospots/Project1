@@ -45,9 +45,12 @@ ul li{
     list-style: none; 
 }   
 
-ul p{
+.head{
     text-transform: uppercase;
+    font-weight: bold;
 }
+
+
 .services{
     background-image: url(assets/backgrounds/s_image.jpg);
     background-position: center;
