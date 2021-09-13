@@ -16,6 +16,17 @@ $(document).ready(function(){
     $(".para-two").on("click",function(){
         $("img[alt=dev").show();
         $(".para-two").hide();
+    }) 
+    
+    
+    $("img[alt=manage]").on("click",function(){
+        $("img[alt=manage").hide();
+        $(".para-three").show();
+    })
+    $(".para-three").on("click",function(){
+        $("img[alt=manage").show();
+        $(".para-three").hide();
     })      
+
 
   });
