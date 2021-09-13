@@ -9,10 +9,12 @@ header{
     background-position: center;
     background-image: url(assets/backgrounds/h_img.jpg);
     background-size:cover;
-    padding: 20%;
+   
+    font-size: 20px;
     background-repeat: no-repeat;
     color: white;
-    margin: 20px;   
+    margin: 20px; 
+      
 }
 
 section{
@@ -29,30 +31,30 @@ h2{
 }
 
 .logo{
-    height: 50px;
+    height: 80px;
 }
 header p{
-    font-size: 10px;
+    font-size: 15px;
 }
 
-.we ul{
+
+.we ul {
     display: grid;
-    grid-column-gap: 150px;
+    grid-column-gap: 350px;
     grid-template-columns: auto auto auto;
     padding: 70px;  
     justify-content: center;
+    
 
 
 }
 
 ul li{
-    list-style: none; 
-    
+    list-style: none;
 }   
 
 .para-one , .para-two, .para-three{
     width: 500px;
-    
 }   
 
 .head-one , .head-two , .head-three{
