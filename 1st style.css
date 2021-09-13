@@ -37,16 +37,28 @@ header p{
 
 .we ul{
     display: grid;
-    grid-template-columns: auto auto auto;  
+    grid-column-gap: 150px;
+    grid-template-columns: auto auto auto;
+    padding: 70px;  
+    justify-content: center;
+
+
 }
 
 ul li{
     list-style: none; 
+    
+}   
+
+.para-one , .para-two, .para-three{
+    width: 500px;
+    
 }   
 
 .head-one , .head-two , .head-three{
     text-transform: uppercase;
     font-weight: bold;
+    
 }
 
 
