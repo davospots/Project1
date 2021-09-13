@@ -122,9 +122,15 @@ textarea, input{
     background:transparent;
     border: 1px white solid;
     color: white;
+    font-size: 20px;
+   
 }
 
 ::placeholder{
     color:white;
     padding-left: 5px;
+}
+
+input{
+    width: 358px;
 }
