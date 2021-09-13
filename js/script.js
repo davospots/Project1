@@ -2,6 +2,7 @@ $(document).ready(function(){
     $(".para-one").hide();
     $(".para-two").hide();
     $(".para-three").hide();
+    $(".text-a, .text-b, .text-c, .text-d, .text-e, .text-f, .text-g, .text-h ").hide();
 
     
     $("img[alt=design]").on("click",function(){
@@ -38,7 +39,9 @@ $(document).ready(function(){
         $(".para-three").hide();
     })      
 
-
+    $(".img-and-text-wrapper > .img").hover(function(){
+        $(".text").show()
+    });
 
 
   });
