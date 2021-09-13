@@ -36,9 +36,8 @@ header p{
 }
 
 .we ul{
-    display: flex;
-    justify-content: space-around;
-    padding: 40px;   
+    display: grid;
+    grid-template-columns: auto auto auto;  
 }
 
 ul li{

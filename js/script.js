@@ -1,4 +1,9 @@
 $(document).ready(function(){
+    $(".para-one").hide();
+    $(".para-two").hide();
+    $(".para-three").hide();
+
+    
     $("img[alt=design]").on("click",function(){
         $("img[alt=design").hide();
         $(".para-one").show();
