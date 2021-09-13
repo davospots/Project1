@@ -97,7 +97,11 @@ ul li{
     align-items: center;
     text-align: center;
     height: 100%;
-    padding-left: 190px;
+    margin: 0 190px 0 190px;
+    color:rgb(209, 252, 124);
+    font-weight: bold;
+    background-color: white;
+   
 
 }
 

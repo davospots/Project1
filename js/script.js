@@ -42,12 +42,36 @@ $(document).ready(function(){
 
     $("img[alt=photo1").hover(function(){
         $(".text-a").toggle();
-    
     });
 
     $("img[alt=photo2").hover(function(){
         $(".text-b").toggle()
     });
+
+    $("img[alt=photo3").hover(function(){
+        $(".text-c").toggle()
+    });
+
+    $("img[alt=photo4").hover(function(){
+        $(".text-d").toggle()
+    });
+
+    $("img[alt=photo5").hover(function(){
+        $(".text-e").toggle()
+    });
+
+    $("img[alt=photo6").hover(function(){
+        $(".text-f").toggle()
+    });
+
+    $("img[alt=photo7").hover(function(){
+        $(".text-g").toggle()
+    });
+
+    $("img[alt=photo8").hover(function(){
+        $(".text-h").toggle()
+    });
+
 
 
   });
