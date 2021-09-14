@@ -74,6 +74,14 @@ $(document).ready(function(){
         $(".text-h").toggle()
     });
 
+const form = document.getElementById("forms");
+forms.addEventListener("submit", (e) =>{
+
+    //e.preventDefault();
+
+    alert("Your form has been submitted ,Thank you")
+})
+
 
 
   });
