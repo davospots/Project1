@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    text-align: center;
     
 }
 header{
@@ -38,10 +39,9 @@ header p{
 }
 .we ul {
     display: grid;
-    grid-column-gap: 250px;
     grid-template-columns: auto auto auto;
     padding: 70px;  
-    justify-content: center;
+    justify-content: space-around;
 }
 
 ul li{
@@ -132,4 +132,15 @@ textarea, input{
 
 input{
     width: 358px;
+}
+
+#dev{
+    height: 83px;
+    width: 80px;
+}
+
+#mana{
+    height: 83px;
+    width: 80px;
+
 }
