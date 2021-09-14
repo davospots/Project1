@@ -77,7 +77,7 @@ $(document).ready(function(){
 const form = document.getElementById("forms");
 forms.addEventListener("submit", (e) =>{
 
-    //e.preventDefault();
+    e.preventDefault();
 
     alert("Your form has been submitted ,Thank you")
 })
