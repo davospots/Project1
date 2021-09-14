@@ -56,6 +56,7 @@ ul li{
     text-transform: uppercase;
     font-weight: bold;
     
+    
 }
 
 .services{
@@ -69,20 +70,19 @@ ul li{
 }
 
 .portcontainer {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    /*display: grid; */
+    /*grid-template-columns: 1fr 1fr 1fr 1fr;*/
+    justify-content: center;
+    flex-flow: row wrap;
 
 }
 .img-and-text-wrapper{
     position: relative;
-}
-
-
-.img-and-text-wrapper{
     padding: 15px;
+    flex-basis: 25%;
+    
+
 }
-
-
 .img-and-text-wrapper > .text-a,.text-b,.text-c,.text-d,.text-e,.text-f,.text-g,.text-h{
     position: absolute;
     top: 0;
@@ -101,6 +101,9 @@ ul li{
     color: white;
     padding: 40px;
     margin: 40px;
+}
+.contact h2{
+    padding-bottom  : 20px;
 }
 
 .icons ul{
@@ -131,7 +134,7 @@ textarea, input{
 }
 
 input{
-    width: 358px;
+    width: 322px;
 }
 
 #dev{
