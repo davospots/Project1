@@ -131,10 +131,11 @@ textarea, input{
     border: 1px white solid;
     color: white;
     font-size: 20px;
+    
 }
 textarea{
-    width: 670px;
-    height: auto;
+    width: 50%;
+    height: 100%;
 }
 
 ::placeholder{
